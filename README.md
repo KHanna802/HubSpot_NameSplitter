@@ -1,5 +1,4 @@
-Code to split a single Name field into First Name, Last Name, using complex logic for ethnic last names.  
-It also creates a column for confidence level (low, medium, high), whether the name should be reviewed (yes/no)
+Code to split a single Name field into First Name, Last Name, using complex logic for ethnic last names.  It also creates a column for confidence level (low, medium, high), whether the name should be reviewed (yes/no)
 and name parsing method.
 
 Prefix Removal
